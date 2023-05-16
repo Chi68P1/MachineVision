@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\bin\Debug\MP10_RGB2YCrCb.exe.config
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\bin\Debug\MP10_RGB2YCrCb.exe
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\bin\Debug\MP10_RGB2YCrCb.pdb
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.exe
+C:\Users\Asus\source\Mini_Projects\MP10_RGB2YCrCb\MP10_RGB2YCrCb\obj\Debug\MP10_RGB2YCrCb.pdb

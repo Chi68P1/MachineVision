@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\bin\Debug\MP09_RGB2XYZ.exe.config
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\bin\Debug\MP09_RGB2XYZ.exe
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\bin\Debug\MP09_RGB2XYZ.pdb
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.exe
+C:\Users\Asus\source\Mini_Projects\MP09_RGB2XYZ\MP09_RGB2XYZ\obj\Debug\MP09_RGB2XYZ.pdb

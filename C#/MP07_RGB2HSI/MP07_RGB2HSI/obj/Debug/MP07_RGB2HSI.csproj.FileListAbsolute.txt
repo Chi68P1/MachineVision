@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\obj\Debug\MP07_RGB2HSI.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\obj\Debug\MP07_RGB2HSI.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\obj\Debug\MP07_RGB2HSI.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\obj\Debug\MP07_RGB2HSI.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\obj\Debug\MP07_RGB2HSI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\bin\Debug\MP07_RGB2HSI.exe.config
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\bin\Debug\MP07_RGB2HSI.exe
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\bin\Debug\MP07_RGB2HSI.pdb
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\obj\Debug\MP07_RGB2HSI.exe
+C:\Users\Asus\source\Mini_Projects\MP07_RGB2HSI\MP07_RGB2HSI\obj\Debug\MP07_RGB2HSI.pdb

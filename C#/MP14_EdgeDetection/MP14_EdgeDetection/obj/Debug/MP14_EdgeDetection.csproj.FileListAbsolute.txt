@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\obj\Debug\MP14_EdgeDetection.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\obj\Debug\MP14_EdgeDetection.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\obj\Debug\MP14_EdgeDetection.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\obj\Debug\MP14_EdgeDetection.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\obj\Debug\MP14_EdgeDetection.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\bin\Debug\MP14_EdgeDetection.exe.config
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\bin\Debug\MP14_EdgeDetection.exe
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\bin\Debug\MP14_EdgeDetection.pdb
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\obj\Debug\MP14_EdgeDetection.exe
+C:\Users\Asus\source\Mini_Projects\MP14_EdgeDetection\MP14_EdgeDetection\obj\Debug\MP14_EdgeDetection.pdb

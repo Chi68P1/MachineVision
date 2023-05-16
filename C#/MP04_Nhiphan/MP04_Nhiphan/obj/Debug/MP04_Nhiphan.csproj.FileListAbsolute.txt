@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\obj\Debug\MP04_Nhiphan.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\obj\Debug\MP04_Nhiphan.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\obj\Debug\MP04_Nhiphan.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\obj\Debug\MP04_Nhiphan.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\obj\Debug\MP04_Nhiphan.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\bin\Debug\MP04_Nhiphan.exe.config
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\bin\Debug\MP04_Nhiphan.exe
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\bin\Debug\MP04_Nhiphan.pdb
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\obj\Debug\MP04_Nhiphan.exe
+C:\Users\Asus\source\Mini_Projects\MP04_Nhiphan\MP04_Nhiphan\obj\Debug\MP04_Nhiphan.pdb

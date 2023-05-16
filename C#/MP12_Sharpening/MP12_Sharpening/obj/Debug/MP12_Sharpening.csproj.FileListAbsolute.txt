@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\bin\Debug\MP12_Sharpening.exe.config
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\bin\Debug\MP12_Sharpening.exe
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\bin\Debug\MP12_Sharpening.pdb
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\obj\Debug\MP12_Sharpening.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\obj\Debug\MP12_Sharpening.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\obj\Debug\MP12_Sharpening.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\obj\Debug\MP12_Sharpening.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\obj\Debug\MP12_Sharpening.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\obj\Debug\MP12_Sharpening.exe
+C:\Users\Asus\source\Mini_Projects\MP12_Sharpening\MP12_Sharpening\obj\Debug\MP12_Sharpening.pdb

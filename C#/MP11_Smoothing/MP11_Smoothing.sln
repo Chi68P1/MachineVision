@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP11_Smoothing", "MP11_Smoothing\MP11_Smoothing.csproj", "{338ED97E-7DB6-4143-A902-1E7892B777AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338ED97E-7DB6-4143-A902-1E7892B777AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338ED97E-7DB6-4143-A902-1E7892B777AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338ED97E-7DB6-4143-A902-1E7892B777AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338ED97E-7DB6-4143-A902-1E7892B777AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62E1FF04-626B-4DDF-B33F-C33481302846}
+	EndGlobalSection
+EndGlobal

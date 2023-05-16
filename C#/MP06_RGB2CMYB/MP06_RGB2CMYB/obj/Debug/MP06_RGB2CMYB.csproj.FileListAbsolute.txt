@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\bin\Debug\MP06_RGB2CMYB.exe.config
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\bin\Debug\MP06_RGB2CMYB.exe
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\bin\Debug\MP06_RGB2CMYB.pdb
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\obj\Debug\MP06_RGB2CMYB.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\obj\Debug\MP06_RGB2CMYB.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\obj\Debug\MP06_RGB2CMYB.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\obj\Debug\MP06_RGB2CMYB.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\obj\Debug\MP06_RGB2CMYB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\obj\Debug\MP06_RGB2CMYB.exe
+C:\Users\Asus\source\Mini_Projects\MP06_RGB2CMYB\MP06_RGB2CMYB\obj\Debug\MP06_RGB2CMYB.pdb

@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\obj\Debug\MP03_GrayscaleC.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\obj\Debug\MP03_GrayscaleC.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\obj\Debug\MP03_GrayscaleC.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\obj\Debug\MP03_GrayscaleC.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\obj\Debug\MP03_GrayscaleC.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\bin\Debug\MP03_GrayscaleC.exe.config
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\bin\Debug\MP03_GrayscaleC.exe
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\bin\Debug\MP03_GrayscaleC.pdb
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\obj\Debug\MP03_GrayscaleC.exe
+C:\Users\Asus\source\Mini_Projects\MP03_GrayscaleC\MP03_GrayscaleC\obj\Debug\MP03_GrayscaleC.pdb

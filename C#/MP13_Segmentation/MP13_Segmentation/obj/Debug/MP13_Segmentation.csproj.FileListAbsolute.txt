@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\bin\Debug\MP13_Segmentation.exe.config
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\bin\Debug\MP13_Segmentation.exe
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\bin\Debug\MP13_Segmentation.pdb
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.exe
+C:\Users\Asus\source\Mini_Projects\MP13_Segmentation\MP13_Segmentation\obj\Debug\MP13_Segmentation.pdb

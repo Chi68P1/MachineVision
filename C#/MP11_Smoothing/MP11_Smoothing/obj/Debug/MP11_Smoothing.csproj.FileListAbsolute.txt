@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\obj\Debug\MP11_Smoothing.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\obj\Debug\MP11_Smoothing.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\obj\Debug\MP11_Smoothing.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\obj\Debug\MP11_Smoothing.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\obj\Debug\MP11_Smoothing.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\bin\Debug\MP11_Smoothing.exe.config
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\bin\Debug\MP11_Smoothing.exe
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\bin\Debug\MP11_Smoothing.pdb
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\obj\Debug\MP11_Smoothing.exe
+C:\Users\Asus\source\Mini_Projects\MP11_Smoothing\MP11_Smoothing\obj\Debug\MP11_Smoothing.pdb

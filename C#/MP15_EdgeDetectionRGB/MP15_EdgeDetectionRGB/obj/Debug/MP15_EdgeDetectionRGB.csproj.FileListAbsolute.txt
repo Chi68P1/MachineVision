@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\bin\Debug\MP15_EdgeDetectionRGB.exe.config
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\bin\Debug\MP15_EdgeDetectionRGB.exe
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\bin\Debug\MP15_EdgeDetectionRGB.pdb
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\obj\Debug\MP15_EdgeDetectionRGB.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\obj\Debug\MP15_EdgeDetectionRGB.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\obj\Debug\MP15_EdgeDetectionRGB.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\obj\Debug\MP15_EdgeDetectionRGB.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\obj\Debug\MP15_EdgeDetectionRGB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\obj\Debug\MP15_EdgeDetectionRGB.exe
+C:\Users\Asus\source\Mini_Projects\MP15_EdgeDetectionRGB\MP15_EdgeDetectionRGB\obj\Debug\MP15_EdgeDetectionRGB.pdb
