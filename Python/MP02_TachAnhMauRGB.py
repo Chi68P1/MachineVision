@@ -22,7 +22,7 @@ blue[:] = [0,0,0]
 for x in range(width):
     for y in range(height):
         # lấy giá trị điểm ảnh tại vị trí (x,y)
-        R = img[y,x,2]
+        R = img[y,x,2]     
         G = img[y,x,1]
         B = img[y,x,0]
 

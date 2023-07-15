@@ -1,0 +1,10 @@
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\bin\Debug\MP01_TachAnhMauRGB.exe.config
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\bin\Debug\MP01_TachAnhMauRGB.exe
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\bin\Debug\MP01_TachAnhMauRGB.pdb
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\obj\Debug\MP01_TachAnhMauRGB.csprojAssemblyReference.cache
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\obj\Debug\MP01_TachAnhMauRGB.Form1.resources
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\obj\Debug\MP01_TachAnhMauRGB.Properties.Resources.resources
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\obj\Debug\MP01_TachAnhMauRGB.csproj.GenerateResource.cache
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\obj\Debug\MP01_TachAnhMauRGB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\obj\Debug\MP01_TachAnhMauRGB.exe
+C:\Users\Asus\source\Mini_Projects\MP01_TachAnhMauRGB\MP01_TachAnhMauRGB\obj\Debug\MP01_TachAnhMauRGB.pdb
